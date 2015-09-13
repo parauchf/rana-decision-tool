@@ -1,7 +1,7 @@
 {
   "name": "rana-decision-tool",
   "version": "1.0.0",
-  "description": "decision tool for municpal urban regeneration projects",
+  "description": "decision tool for urban regeneration projects",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/parauchf/rana-decision-tool#readme",
   "dependencies": {
-    "react": "^0.13.3"
+    "react": "^0.13.3",
+    "object-assign": "*"
   },
   "devDependencies": {
     "http-server": "^0.8.0",
